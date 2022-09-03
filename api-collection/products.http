@@ -1,0 +1,55 @@
+# Categories
+@baseUrl = http://localhost:3000/api
+@resourceName = products
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+###
+# @name filterProducts
+GET {{baseUrl}}/{{resourceName}}?color=white
+
+###
+# @name pagination
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=3
+
+###
+# @name sort 
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=asc
+
+### 
+# @name addNew
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name": "Handcrafted Wooden Table",
+    "color": "azure",
+    "price": 893,
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "thumbnailUrl": "https://loremflickr.com/400/400"
+  }
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/0ijcAMv
+Content-Type: application/json
+
+{
+    "name": "Handcrafted Wooden Chair",
+    "color": "red",
+    "price": 893,
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "thumbnailUrl": "https://loremflickr.com/400/400"
+}
+
+###
+
+# @name remove
+DELETE  {{baseUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+    "name": "New Laptop"
+}

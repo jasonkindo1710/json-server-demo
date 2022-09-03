@@ -1,0 +1,243 @@
+{
+  "categories": [
+    {
+      "id": "536144ae-94ba-4584-a870-54f10dd1dc5a",
+      "name": "Movies",
+      "createdAt": 1662185073208,
+      "updatedAt": 1662185073208
+    },
+    {
+      "id": "1e711a24-ece4-4397-8acd-95b1ea9be091",
+      "name": "Grocery",
+      "createdAt": 1662185073208,
+      "updatedAt": 1662185073208
+    },
+    {
+      "id": "7cc733d1-9229-4663-9af1-e00970271229",
+      "name": "Toys",
+      "createdAt": 1662185073208,
+      "updatedAt": 1662185073208
+    },
+    {
+      "id": "643166f6-cac2-42a8-847c-513cae82ee59",
+      "name": "Toys",
+      "createdAt": 1662185073208,
+      "updatedAt": 1662185073208
+    }
+  ],
+  "products": [
+    {
+      "id": "7ee0dc1f-6769-4e9e-a3a4-1acc6de08f38",
+      "name": "Generic Frozen Pants",
+      "color": "ivory",
+      "price": 213,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1662185073208,
+      "updatedAt": 1662185073208,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "6a4e70ed-d798-4ca5-b4ea-19fc1e509680",
+      "name": "Incredible Cotton Bike",
+      "color": "red",
+      "price": 228,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1662185073208,
+      "updatedAt": 1662185073208,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "b62866cd-1c9d-4c50-8c06-bae34ba34d12",
+      "name": "Intelligent Fresh Shirt",
+      "color": "gold",
+      "price": 367,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1662185073208,
+      "updatedAt": 1662185073208,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "e3437d1d-1500-47ef-924c-ea8482f56555",
+      "name": "Tasty Plastic Soap",
+      "color": "cyan",
+      "price": 104,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1662185073208,
+      "updatedAt": 1662185073208,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "85762dea-3485-403d-81da-bc318f8f6c40",
+      "name": "Recycled Frozen Shoes",
+      "color": "silver",
+      "price": 892,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1662185073208,
+      "updatedAt": 1662185073208,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "88616bef-500f-47a3-bb6f-abcd660d8670",
+      "name": "Handcrafted Wooden Table",
+      "color": "azure",
+      "price": 893,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "0c777365-252b-41cf-999b-b4b34ba37433",
+      "name": "Ergonomic Granite Keyboard",
+      "color": "teal",
+      "price": 547,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "8349e355-5b32-4ff0-9827-398486e7204d",
+      "name": "Refined Cotton Shirt",
+      "color": "silver",
+      "price": 709,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "10c273d2-5d2e-4ae1-b1f6-e027f7cb3c81",
+      "name": "Ergonomic Soft Chips",
+      "color": "green",
+      "price": 854,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "ddc07f4a-16fa-4a5f-ba2f-9aca7d475fa9",
+      "name": "Handcrafted Fresh Towels",
+      "color": "white",
+      "price": 453,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "635113fb-465d-481a-92bf-0c335c6b6188",
+      "name": "Ergonomic Bronze Gloves",
+      "color": "sky blue",
+      "price": 862,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "1a7bcf3d-9492-4d11-839c-e40d88576e44",
+      "name": "Fantastic Concrete Chicken",
+      "color": "grey",
+      "price": 380,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "e15d3e2b-dda6-4fda-9c30-ee0fa1219df7",
+      "name": "Sleek Wooden Sausages",
+      "color": "cyan",
+      "price": 476,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "2f8162bb-e5c5-43e6-bd26-77565b03c4f2",
+      "name": "Generic Wooden Chicken",
+      "color": "sky blue",
+      "price": 745,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "7160d838-01d7-4502-a59f-af0bec2fb94f",
+      "name": "Rustic Fresh Gloves",
+      "color": "mint green",
+      "price": 245,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "84fa5b6a-8d73-469d-8e69-da7ff6d151ab",
+      "name": "Unbranded Rubber Shirt",
+      "color": "black",
+      "price": 380,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "f1b71d28-4eab-4711-8db0-fe1a398f8b43",
+      "name": "Handmade Cotton Fish",
+      "color": "grey",
+      "price": 682,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "b8aed20d-1805-45e5-8211-a985b9d6b1df",
+      "name": "Practical Wooden Ball",
+      "color": "sky blue",
+      "price": 667,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "eec2d5b9-f873-4a6c-83ee-60c52afb59c5",
+      "name": "Licensed Wooden Chips",
+      "color": "black",
+      "price": 726,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "id": "dca1d86f-5580-402c-95a3-61179aa2de7a",
+      "name": "Incredible Plastic Cheese",
+      "color": "azure",
+      "price": 58,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1662185073209,
+      "updatedAt": 1662185073209,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "name": "Handcrafted Wooden Chair",
+      "color": "red",
+      "price": 893,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "thumbnailUrl": "https://loremflickr.com/400/400",
+      "createdAt": 1662185543261,
+      "updatedAt": 1662185600228,
+      "id": "0ijcAMv"
+    }
+  ],
+  "profile": {
+    "name": "Chi"
+  }
+}
